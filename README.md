@@ -54,10 +54,7 @@
 
 --- 
 ### How to reach me
-<div> 
-  <a href="https://www.linkedin.com/in/julio-chagas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/julio-chagas/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliutux)
+[![Outlook](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:juliu12@outlook.com.br)
